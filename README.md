@@ -14,8 +14,9 @@ This project is a simple Clothing Management System implemented in C++ using obj
 
 ### Prerequisites
 
-- C++ compiler (e.g., g++)
+- C++ compiler
 - Standard C++ library
+- Basics of OOPS concepts
 
 ### Installation
 
