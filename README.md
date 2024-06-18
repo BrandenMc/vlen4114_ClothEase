@@ -1,6 +1,4 @@
 # ClothEase
-Simplified Clothing Management System using C++
-# Clothing Management System
 
 This project is a simple Clothing Management System implemented in C++ using object-oriented programming principles. It allows users to add, view, edit, remove, and find clothing items with details such as name, size, color, quantity, and price.
 
