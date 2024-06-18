@@ -23,25 +23,25 @@ This project is a simple Clothing Management System implemented in C++ using obj
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/clothing-management-system.git
+    git clone https://github.com/vlen4114/ClothEase.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd clothing-management-system
+    cd ClothEase
     ```
 
 3. Compile the source code:
 
     ```bash
-    g++ -o clothing_management_system main.cpp
+    g++ -o ClothEase main.cpp
     ```
 
 4. Run the executable:
 
     ```bash
-    ./clothing_management_system
+    ./ClothEase
     ```
 
 ## Usage
@@ -55,26 +55,12 @@ Upon running the program, you will be presented with a menu with the following o
 5. **Find Clothing**: Prompts you to enter the name of the clothing item you want to find and displays its details.
 6. **Exit**: Exits the program.
 
-### Example
-
-Here is an example of how to use the program:
-
-1. Choose option `2` to add a new clothing item.
-2. Enter the details for the new clothing item (name, size, color, quantity, price).
-3. Choose option `1` to view all clothes and see the new item added.
-4. Choose option `3` to edit an existing clothing item.
-5. Choose option `4` to remove a clothing item.
-6. Choose option `5` to find a specific clothing item by name.
-7. Choose option `6` to exit the program.
 
 ## Project Structure
 
 - `main.cpp`: Contains the main logic and the `ClothesInfo` class definition.
 - `CLOTH.dat`: Binary file used to store the clothing items data persistently.
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure that your code adheres to the coding standards and includes appropriate tests.
 
 ## License
 
@@ -82,6 +68,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- This project was created as a part of learning object-oriented programming in C++.
-- Special thanks to the contributors and the open-source community for their valuable input.
+- This project was created as a part of learning the course 21CSC101T(Object Oriented Design and Programming) of SRM Institute of Science and Technology.
+- Special thanks to the open-source community for their valuable input.
 
